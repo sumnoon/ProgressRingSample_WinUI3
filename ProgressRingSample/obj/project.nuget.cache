@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zsmm4BSaBsmjjrr+KK2sg121PCNaT7vYFS5YeCXqVuhxgH8HIR/+wFg2TvOySK81gCJeUWgIwH9tTbtsl+9RpQ==",
+  "success": true,
+  "projectFilePath": "I:\\UWP\\ProgressRingSample\\ProgressRingSample\\ProgressRingSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.9\\microsoft.netcore.app.runtime.win-arm64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.27\\microsoft.windows.sdk.net.ref.10.0.19041.27.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\LoneWolf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
